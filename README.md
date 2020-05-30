@@ -1,2 +1,5 @@
-# azure-resources
-A buch of  personal staff to help using azure services and solutions
+# azure-resource
+A bunch of personal stuff to help using azure services and solutions
+
+## Azure Citadel - Labs and Workshops
+https://azurecitadel.github.io/labs/
